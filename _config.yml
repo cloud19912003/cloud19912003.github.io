@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Murray
-title: 
+title: Required Title
 header-img: img/home-bg.png
 email: cloud19912003@live.com
 copyright_name: Michael Murray
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why is this required too?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cloud19912003
